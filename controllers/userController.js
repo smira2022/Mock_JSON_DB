@@ -73,7 +73,7 @@ async function deleteUser(req, res){
 
         //check if user exists, splice the user from the users array/object
         if (user){
-            //user is index position(or id). "1" is theno. of  match to remove
+            //user is index position(or id). "1" is the no. of  match to remove
             data.users.splice(user, 1);
             await writeData(data);
 

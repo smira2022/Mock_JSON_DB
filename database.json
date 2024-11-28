@@ -7,6 +7,22 @@
         "testUS2"
       ],
       "email": "testUS2@test.com"
+    },
+    {
+      "id": 3,
+      "username": [
+        "testUS1",
+        "Test US1"
+      ],
+      "email": "testus1@test.com"
+    },
+    {
+      "id": 4,
+      "username": [
+        "jsmith10",
+        "John Smith"
+      ],
+      "email": "jsmith@test.com"
     }
   ]
 }
